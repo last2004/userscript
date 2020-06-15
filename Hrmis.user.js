@@ -7,8 +7,8 @@
 // @match        http://inner-portal.ccs.org.cn/hrmis/exam/exam!examOnline.do?className=*
 // @match        http://hrmis.ccs.org.cn/hrmis/exam/exam!examOnline.do?className=*
 // @grant        none
-// @updateURL    https://github.com/last2004/userscript/raw/master/Hrmis.user.js
-// @downloadURL    https://github.com/last2004/userscript/raw/master/Hrmis.user.js
+// @updateURL    https://gitee.com/last2003/userscript/raw/master/Hrmis.user.js
+// @downloadURL  https://gitee.com/last2003/userscript/raw/master/Hrmis.user.js
 // ==/UserScript==
 
 (function() {
