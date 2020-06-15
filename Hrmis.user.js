@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Hrmis
 // @namespace    http://inner-portal.ccs.org.cn/hrmis/
-// @version      20190213
+// @version      20200615
 // @description  Just for fun!
 // @author       You
 // @match        http://inner-portal.ccs.org.cn/hrmis/exam/exam!examOnline.do?className=*
+// @match        http://hrmis.ccs.org.cn/hrmis/exam/exam!examOnline.do?className=*
 // @grant        none
 // @updateURL    https://github.com/last2004/userscript/raw/master/Hrmis.user.js
 // @downloadURL    https://github.com/last2004/userscript/raw/master/Hrmis.user.js
